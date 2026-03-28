@@ -21,8 +21,8 @@ Aplikasi Silsilah Keluarga Berbasis Web
 - Branch Family - Tambah keluarga cabang
 
 Konwn bug
-- Total keluarga masih belum synchron dengan data yang belum terhapus (yang terhapus juga dihitung)
-- View Keluarga brach (cabang masih error)
+- Total keluarga masih belum synchron (yang terhapus juga dihitung)
+- View Keluarga branch (cabang masih error)
 
 Screenshoot
 <img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/69a0d0cb-c5f1-49e2-8fd2-e521df8f28dd" />

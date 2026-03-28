@@ -1,0 +1,101 @@
+[
+    {
+        "id": 9,
+        "name": "Gunadi",
+        "family_id": null,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": 42,
+        "is_root": 1
+    },
+    {
+        "id": 14,
+        "name": "Mat Ali",
+        "family_id": null,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": null,
+        "is_root": 1
+    },
+    {
+        "id": 41,
+        "name": "Munajab",
+        "family_id": null,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": null,
+        "is_root": 1
+    },
+    {
+        "id": 42,
+        "name": "Asminten",
+        "family_id": 8,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": 9,
+        "is_root": 0
+    },
+    {
+        "id": 43,
+        "name": "Abu Ali",
+        "family_id": 8,
+        "father_id": 9,
+        "mother_id": 42,
+        "spouse_id": 44,
+        "is_root": 0
+    },
+    {
+        "id": 44,
+        "name": "Juwariyah",
+        "family_id": 8,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": 43,
+        "is_root": 0
+    },
+    {
+        "id": 45,
+        "name": "Kamal Irsyadillah",
+        "family_id": 8,
+        "father_id": 49,
+        "mother_id": 48,
+        "spouse_id": null,
+        "is_root": 0
+    },
+    {
+        "id": 46,
+        "name": "Muntika",
+        "family_id": 8,
+        "father_id": 9,
+        "mother_id": 42,
+        "spouse_id": 47,
+        "is_root": 0
+    },
+    {
+        "id": 47,
+        "name": "Ahmad",
+        "family_id": null,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": 46,
+        "is_root": 0
+    },
+    {
+        "id": 48,
+        "name": "Titis Khoiriyah",
+        "family_id": 8,
+        "father_id": 47,
+        "mother_id": 46,
+        "spouse_id": 49,
+        "is_root": 0
+    },
+    {
+        "id": 49,
+        "name": "Zubaedi",
+        "family_id": null,
+        "father_id": null,
+        "mother_id": null,
+        "spouse_id": 48,
+        "is_root": 0
+    }
+]

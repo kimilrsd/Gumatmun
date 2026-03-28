@@ -1,2 +1,2 @@
 # Gumatmun
-Silsilah keluarga
+Aplikasi Silsilah Keluarga Berbasis Web
